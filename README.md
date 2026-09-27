@@ -159,7 +159,7 @@ The final Analytics contribution builds on the existing Week 5 Power BI dashboar
 
 ### Week 6 Advanced Analytics
 
-![week6 analysis20%](week6 analysis20%.png)
+![week6](week6.png)
 
 ---
 
