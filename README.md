@@ -155,11 +155,11 @@ The final Analytics contribution builds on the existing Week 5 Power BI dashboar
 
 ### Week 5 Dashboard
 
-![HealthConnect Week 5 Dashboard](.png)
+![week5](week5.png)
 
 ### Week 6 Advanced Analytics
 
-![HealthConnect Week 6 Advanced Analytics](images/healthconnect-week6-advanced-analytics.png)
+![week6 20%analysis](week6 20%analysis.png)
 
 ---
 
